@@ -4,7 +4,7 @@ Statistics and Visualization of acceptance rate, main keyword of [NeurIPS 2020](
 Inspired by [`NeurIPS-2019-Paper-Statistics`](https://github.com/hoya012/NeurIPS-2019-Paper-Statistics)
 
 <p align="center">
-  <img width="600" src="https://github.com/hoya012/NeurIPS-2020-Paper-Statistics/blob/master/neurips2020/keyword_cloud.png">
+  <img width="600" src="https://github.com/hoya012/NeurIPS-2020-Paper-Statistics/blob/main/neurips2020/keyword_cloud.png">
 </p>
 
 ## NeurIPS 2020 Acceptance rate (2016~2020)
@@ -13,7 +13,7 @@ Inspired by [`NeurIPS-2019-Paper-Statistics`](https://github.com/hoya012/NeurIPS
 - The acceptance rate is maintaned about 20%.
 
 <p align="center">
-  <img width="500" src="https://github.com/hoya012/NeurIPS-2020-Paper-Statistics/blob/master/neurips2020/neurips_acceptance_rate.PNG">
+  <img width="500" src="https://github.com/hoya012/NeurIPS-2020-Paper-Statistics/blob/main/neurips2020/neurips_acceptance_rate.PNG">
 </p>
 
 
@@ -21,16 +21,16 @@ Inspired by [`NeurIPS-2019-Paper-Statistics`](https://github.com/hoya012/NeurIPS
 - [Accepted Paper list](https://nips.cc/Conferences/2020/AcceptedPapersInitial)
 
 -  Top keywords 
-   - 
+   - model, graph, optimization, reinforcement, adversarial, gradient, efficient, robust
 
 <p align="center">
-  <img width="1000" src="https://github.com/hoya012/NeurIPS-2019-Paper-Statistics/blob/master/neurips2019/top_keywords_2019.png">
+  <img width="1000" src="https://github.com/hoya012/NeurIPS-2020-Paper-Statistics/blob/main/neurips2020/top_keywords_2019%2B2020.png">
 </p>
 
 ## Analysis and Visualization Code (Jupyter Notebook)
 
 - The above data can be obtained from a simple jupyter notebook script.
-   - [`NeurIPS2020_paper_statistics_using_chrome.ipynb`](https://github.com/hoya012/NeurIPS-2020-Paper-Statistics/blob/master/neurips2020/NeurIPS2020_paper_statistics_using_chrome.ipynb)
+   - [`NeurIPS2020_paper_statistics_using_chrome.ipynb`](https://github.com/hoya012/NeurIPS-2020-Paper-Statistics/blob/main/neurips2020/NeurIPS2020_paper_statistics_using_chrome.ipynb)
 
 ## Prerequisites
 - python3.5
